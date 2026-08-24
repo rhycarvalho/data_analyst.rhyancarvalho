@@ -6,7 +6,7 @@
 
 Minha experiência na área de dados ainda é bem recente, comecei minha dedicação maior ao conteúdo a partir do primeiro semestre de 2025, devido a sempre precisar conciliar com uma faculdade de Direito e o trabalho.
 
-Desde então venho me capacitando através de cursos, lives e projetos práticos, principalmente pelo YouTube, aprofundando meu conhecimento técnico e minha visão analítica. Por vir de uma formação totalmente de humanas, sei que meus desafios são maiores — mas isso não me afasta do meu objetivo de conquistar uma vaga em Analytics.
+Desde então venho me capacitando através de cursos, lives e projetos práticos, principalmente pelo YouTube, aprofundando meu conhecimento técnico e minha visão analítica. Por vir de uma formação totalmente de humanas, sei que meus desafios são maiores mas isso não me afasta do meu objetivo de conquistar uma vaga em Analytics.
 
 **Background em:** SQL, Python, Power BI, Excel avançado (Power Query), e conhecimento em legislação de dados (LGPD) vindo da minha formação em Direito.
 
