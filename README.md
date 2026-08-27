@@ -22,7 +22,7 @@ Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto po
 - **Análise Exploratória - E-commerce Brasileiro (Olist):** [Apresentação-Brazilian E-Commerce Public Dataset](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
 - **Delivery Analytics com SQL:** [Delivery_Analytics_SQL.ipynb](./Delivery_Analytics_SQL.ipynb)
 - **Roubo e Furto de Veículos no RJ (2023-2025):** [Roubo_Furto_Veiculos_RJ_2023_2025.ipynb](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
-- **Analise de Vendas:** [Roubo_Furto_Veiculos_RJ_2023_2025.ipynb]([./analise_vemdas_cafeteria.ipynb](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/analise_vendas_cafeteria.ipynb))
+- **Analise de Vendas:** [analise_vendas_cafeteria.ipynb]([./analise_vendas_cafeteria.ipynb]
 
 ---
 
