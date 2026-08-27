@@ -8,7 +8,7 @@ Minha experiência na área de dados ainda é bem recente, comecei minha dedica�
 
 Desde então venho me capacitando através de cursos, lives e projetos práticos, principalmente pelo YouTube, aprofundando meu conhecimento técnico e minha visão analítica. Por vir de uma formação totalmente de humanas, sei que meus desafios são maiores mas isso não me afasta do meu objetivo de conquistar uma vaga em Analytics.
 
-**Background em:** SQL, Python, Power BI, Excel avançado (Power Query), e conhecimento em legislação de dados (LGPD) vindo da minha formação em Direito.
+**Background em:** SQL, Python, Power BI, Excel avançado (Power Query), (LGPD)
 
 **Links:**
 - [LinkedIn](https://www.linkedin.com/in/rhycarvalho/)
