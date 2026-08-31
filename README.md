@@ -30,5 +30,5 @@ Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto po
 
 - **Dashboard de Vendas — Aromas Cariocas:** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZTY0M2RiZmMtNmZkMS00NmYyLWFjMTEtYWVmZWFiOTVkOGNlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-- **Dashboard das 5 Grandes Ligas 2025-26** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZGFkYzBlYTEtZmRmNS00ODc2LWI3NzItN2EyNTMwMTEwOGRlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+- **Futebol Europeu Desempenho Ofensivo** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZGFkYzBlYTEtZmRmNS00ODc2LWI3NzItN2EyNTMwMTEwOGRlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
