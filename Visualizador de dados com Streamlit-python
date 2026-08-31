@@ -1,0 +1,21 @@
+import pandas as pd
+import streamlit as st
+#Importando as bibliotecas
+
+
+# Configuração opcional para expandir a largura da tela
+st.set_page_config(layout="wide")
+
+# Título da página web
+st.title("Meu Visualizador")
+
+# Definindo o caminho e o nome correto do seu arquivo CSV
+# o arquivo na mesma pasta, o nome direto com aspas
+caminho_do_arquivo = "players_data_light-2025_2026.csv"
+
+# Carregando os dados do arquivo CSV
+df_dados = pd.read_csv(caminho_do_arquivo)
+
+# Exibindo os dados de maneira interativa na página do Streamlit
+st.write("Abaixo estão os dados carregados:")
+st.write(df_dados)
