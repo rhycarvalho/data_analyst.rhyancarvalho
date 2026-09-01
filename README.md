@@ -23,6 +23,8 @@ Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto po
 - **Delivery Analytics com SQL:** [Delivery_Analytics_SQL.ipynb](./Delivery_Analytics_SQL.ipynb)
 - **Roubo e Furto de Veículos no RJ (2023-2025):** [Roubo_Furto_Veiculos_RJ_2023_2025.ipynb](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
 - **Analise de Vendas:** [analise_vendas_cafeteria.ipynb](./analise_vendas_cafeteria.ipynb)
+- **Visualizador de dados com Streamlit-python** [Visualizador de dados com Streamlit-pytho](./Visualizador de dados com Streamlit-pytho)
+
 
 ---
 
