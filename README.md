@@ -24,6 +24,7 @@ Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto po
 - **Roubo e Furto de Veículos no RJ (2023-2025):** [Roubo_Furto_Veiculos_RJ_2023_2025.ipynb](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
 - **Analise de Vendas:** [analise_vendas_cafeteria.ipynb](./analise_vendas_cafeteria.ipynb)
 - **Visualizador de dados com Streamlit-python:** [Visualizador de dados com Streamlit-python](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
+- - **Consultas com SQL no Banco Streamflix** [sql_streamflix.ipynb](./sql_streamflix.ipynb)
 
 ---
 
