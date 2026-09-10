@@ -102,4 +102,4 @@ Aplicação interativa desenvolvida em Python para carregamento, exploração e 
 
 - **Futebol Europeu Desempenho Ofensivo** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZGFkYzBlYTEtZmRmNS00ODc2LWI3NzItN2EyNTMwMTEwOGRlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
-- **SaaS Analytics — Dashboard de Performance Comercial** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOWUzZDk2MjQtZDZjMy00MzM3LWE1NjktMGYzZjMyYzQxZTZhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) 
+- **SaaS Analytics Dashboard de Performance Comercial** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOWUzZDk2MjQtZDZjMy00MzM3LWE1NjktMGYzZjMyYzQxZTZhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9) 
