@@ -17,8 +17,6 @@ Desde então venho me capacitando através de cursos, lives e projetos práticos
 
 ## 📊 Projetos
 
-Aqui estão alguns dos projetos que venho desenvolvendo durante minha transição para a área de **Dados e Business Intelligence**, combinando estudos, cursos e projetos práticos.
-
 Os projetos estão organizados de forma a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI/BI**.
 
 ---
