@@ -90,8 +90,6 @@ Aplicação interativa desenvolvida em Python para carregamento, exploração e 
 
 ---
 
----
-
 ## 📈 Dashboards Power BI
 
 - **Dashboard de Vendas Aromas Cariocas:** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZTY0M2RiZmMtNmZkMS00NmYyLWFjMTEtYWVmZWFiOTVkOGNlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
