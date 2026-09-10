@@ -17,15 +17,82 @@ Desde então venho me capacitando através de cursos, lives e projetos práticos
 
 ## 📊 Projetos
 
-Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto por iniciativa própria:
+## 📊 Projetos
 
-- **Análise Exploratória - E-commerce Brasileiro (Olist):** [Apresentação-Brazilian E-Commerce Public Dataset](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
-- **Delivery Analytics com SQL:** [Delivery_Analytics_SQL.ipynb](./Delivery_Analytics_SQL.ipynb)
-- **Roubo e Furto de Veículos no RJ (2023-2025):** [Roubo_Furto_Veiculos_RJ_2023_2025.ipynb](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
-- **Analise de Vendas:** [analise_vendas_cafeteria.ipynb](./analise_vendas_cafeteria.ipynb)
-- **Visualizador de dados com Streamlit-python:** [Visualizador de dados com Streamlit-python](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
-- **Consultas com SQL no Banco Streamflix** [Consultas com SQL no Banco Streamflix](./sql_streamflix.ipynb)
-- **biblioteca consulta [SQL].ipynb** [biblioteca consulta SQL.ipynb](./biblioteca consulta [SQL].ipynb)
+Aqui estão alguns dos projetos que venho desenvolvendo durante minha transição para a área de **Dados e Business Intelligence**, combinando estudos, cursos e projetos práticos.
+
+Os projetos estão organizados de forma a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI/BI**.
+
+---
+
+### 🐍 Python & Análise de Dados
+
+**🛒 Análise Exploratória — E-commerce Brasileiro (Olist)**  
+Análise exploratória de dados de e-commerce, buscando identificar padrões de vendas, comportamento dos clientes, desempenho dos pedidos e oportunidades de negócio.
+
+**Tecnologias:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
+
+➡️ [Ver projeto](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
+
+---
+
+**🚗 Roubo e Furto de Veículos no RJ (2023–2025)**  
+Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeiro, explorando distribuição dos casos, períodos e padrões identificados nos dados.
+
+**Tecnologias:** `Python` `Pandas` `Análise Exploratória` `Visualização de Dados`
+
+➡️ [Ver projeto](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
+
+---
+
+**☕ Análise de Vendas — Cafeteria**  
+Projeto de análise de vendas com foco na identificação de produtos, períodos e comportamentos que ajudam a entender o desempenho comercial.
+
+**Tecnologias:** `Python` `Pandas` `Jupyter Notebook`
+
+➡️ [Ver projeto](./analise_vendas_cafeteria.ipynb)
+
+---
+
+### 🗄️ SQL & Análise de Dados
+
+**🍔 Delivery Analytics com SQL**  
+Projeto focado em consultas SQL para análise de dados de delivery.
+
+**Tecnologias:** `SQL` `Análise de Dados` `Consultas Analíticas`
+
+➡️ [Ver projeto](./Delivery_Analytics_SQL.ipynb)
+
+---
+
+**🎬 Consultas SQL — Banco Streamflix**  
+Conjunto de consultas SQL desenvolvidas para explorar um banco de dados de streaming, trabalhando com filtros, agregações, relacionamentos e análise de informações.
+
+**Tecnologias:** `SQL` `Banco de Dados` `Consultas Analíticas`
+
+➡️ [Ver projeto](./sql_streamflix.ipynb)
+
+---
+
+**📚 Biblioteca de Consultas SQL**  
+Repositório de estudos e consultas SQL criado para praticar conceitos fundamentais e intermediários de bancos de dados.
+
+**Tecnologias:** `SQL` `SELECT` `WHERE` `JOIN` `GROUP BY` `ORDER BY`
+
+➡️ [Ver projeto](./biblioteca%20consulta%20SQL.ipynb)
+
+---
+
+### 📈 Visualização & Aplicações
+
+**📊 Visualizador de Dados com Streamlit**  
+Aplicação interativa desenvolvida em Python para carregamento, exploração e visualização de conjuntos de dados.
+
+**Tecnologias:** `Python` `Streamlit` `Pandas` `Data Visualization`
+
+➡️ [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
+
+---
 
 ---
 
