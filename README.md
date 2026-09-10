@@ -70,7 +70,7 @@ Conjunto de consultas SQL desenvolvidas para explorar um banco de dados de strea
 
 ---
 
-**📚 Biblioteca SQL**  
+**📚 SQL Banco biblioteca**  
 Repositório de estudos e consultas SQL criado para praticar conceitos fundamentais e intermediários de bancos de dados.
 
 **Tecnologias:** `SQL` `SELECT` `WHERE` `JOIN` `GROUP BY` `ORDER BY`
