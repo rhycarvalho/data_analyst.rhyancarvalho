@@ -25,6 +25,7 @@ Aqui alguns projetos que venho desenvolvendo, tanto através de cursos quanto po
 - **Analise de Vendas:** [analise_vendas_cafeteria.ipynb](./analise_vendas_cafeteria.ipynb)
 - **Visualizador de dados com Streamlit-python:** [Visualizador de dados com Streamlit-python](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
 - **Consultas com SQL no Banco Streamflix** [sql_streamflix.ipynb](./sql_streamflix.ipynb)
+- **biblioteca consulta [SQL].ipynb** [biblioteca consulta [SQL].ipynb](./biblioteca consulta [SQL].ipynb)
 
 ---
 
