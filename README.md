@@ -17,7 +17,7 @@ Desde então venho me capacitando através de cursos, lives e projetos práticos
 
 ## 📊 Projetos
 
-Os projetos estão organizados de forma a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI**.
+Os projetos estão organizados a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI**.
 
 ---
 
