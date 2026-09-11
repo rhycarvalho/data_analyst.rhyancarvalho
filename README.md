@@ -61,7 +61,7 @@ Projeto focado em consultas SQL para análise de dados de delivery.
 
 ---
 
-**🎬 Consultas em SQL — Banco Streamflix**  
+**🎬 Consultas em SQL no Banco de dados Streamflix**  
 Conjunto de consultas no SQL desenvolvidas para explorar um banco de dados de streaming, trabalhando com filtros, agregações, relacionamentos e análise de informações.
 
 **Tecnologias:** `SQL` `Banco de Dados` `Consultas Analíticas`
