@@ -15,15 +15,15 @@ Desde então venho me capacitando através de cursos, lives e projetos práticos
 
 ---
 
-## 📊 Projetos
+## Projetos
 
 Os projetos estão organizados a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI**.
 
 ---
 
-### 🐼 Python/Pandas
+###Python/Pandas
 
-**🛒 Análise Exploratória  E-commerce Brasileiro (Olist)**  
+**Análise Exploratória  E-commerce Brasileiro (Olist)**  
 Análise exploratória de dados de e-commerce, buscando identificar padrões de vendas, comportamento dos clientes, desempenho dos pedidos e oportunidades de negócio.
 
 **Tecnologias:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
@@ -32,7 +32,7 @@ Análise exploratória de dados de e-commerce, buscando identificar padrões de 
 
 ---
 
-**🚗 Roubo e Furto de Veículos no RJ (2023–2025)**  
+**Roubo e Furto de Veículos no RJ (2023–2025)**  
 Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeiro, explorando distribuição dos casos, períodos e padrões identificados nos dados.
 
 **Tecnologias:** `Python` `Pandas` `Análise Exploratória` `Visualização de Dados`
@@ -41,7 +41,7 @@ Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeir
 
 ---
 
-**☕ Análise de Vendas Cafeteria**  
+** Análise de Vendas Cafeteria**  
 Projeto de análise de vendas com foco na identificação de produtos, períodos e comportamentos que ajudam a entender o desempenho comercial.
 
 **Tecnologias:** `Python` `Pandas` `Jupyter Notebook`
@@ -50,47 +50,47 @@ Projeto de análise de vendas com foco na identificação de produtos, períodos
 
 ---
 
-### 🗄️ SQL/queries
+### SQL/queries
 
-**🍔 Delivery Analytics com SQL/queries**  
+** Delivery Analytics com SQL/queries**  
 Projeto focado em consultas SQL para análise de dados de delivery.
 
 **Tecnologias:** `SQL` `Análise de Dados` `Consultas Analíticas`
 
-➡️ [Ver projeto](./Delivery_Analytics_SQL.ipynb)
+ [Ver projeto](./Delivery_Analytics_SQL.ipynb)
 
 ---
 
-**🎬 Consultas em SQL no Banco de dados Streamflix**  
+** Consultas em SQL no Banco de dados Streamflix**  
 Conjunto de consultas no SQL desenvolvidas para explorar um banco de dados de streaming, trabalhando com filtros, agregações, relacionamentos e análise de informações.
 
 **Tecnologias:** `SQL` `Banco de Dados` `Consultas Analíticas`
 
-➡️ [Ver projeto](./sql_streamflix.ipynb)
+ [Ver projeto](./sql_streamflix.ipynb)
 
 ---
 
-**📚 SQL/queries em Banco de biblioteca**  
+**SQL/queries em Banco de biblioteca**  
 Repositório de estudos e consultas SQL criado para praticar conceitos fundamentais e intermediários de bancos de dados.
 
 **Tecnologias:** `SQL` `SELECT` `WHERE` `JOIN` `GROUP BY` `ORDER BY`
 
-➡️ [Ver projeto](./biblioteca%20consulta%20SQL.ipynb)
+[Ver projeto](./biblioteca%20consulta%20SQL.ipynb)
 
 ---
 
-### 📈 Visualização & Aplicações
+### Visualização & Aplicações
 
 ** Visualizador de Dados com Streamlit**  
 Aplicação interativa desenvolvida em Python para carregamento, exploração e visualização de conjuntos de dados.
 
 **Tecnologias:** `Python` `Streamlit` `Pandas` `Data Visualization`
 
-➡️ [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
+ [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
 
 ---
 
-## 📊 Dashboards Power BI
+##Dashboards Power BI
 
 - **Dashboard de Vendas Aromas Cariocas:** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZTY0M2RiZmMtNmZkMS00NmYyLWFjMTEtYWVmZWFiOTVkOGNlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
