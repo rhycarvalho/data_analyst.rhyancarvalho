@@ -21,14 +21,14 @@ Os projetos estão organizados a demonstrar conhecimentos em **Python, SQL, aná
 
 ---
 
-###Python/Pandas
+### Python/Pandas
 
 **Análise Exploratória  E-commerce Brasileiro (Olist)**  
 Análise exploratória de dados de e-commerce, buscando identificar padrões de vendas, comportamento dos clientes, desempenho dos pedidos e oportunidades de negócio.
 
 **Tecnologias:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
 
-➡️ [Ver projeto](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
+ [Ver projeto](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
 
 ---
 
@@ -37,7 +37,7 @@ Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeir
 
 **Tecnologias:** `Python` `Pandas` `Análise Exploratória` `Visualização de Dados`
 
-➡️ [Ver projeto](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
+ [Ver projeto](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
 
 ---
 
@@ -46,7 +46,7 @@ Projeto de análise de vendas com foco na identificação de produtos, períodos
 
 **Tecnologias:** `Python` `Pandas` `Jupyter Notebook`
 
-➡️ [Ver projeto](./analise_vendas_cafeteria.ipynb)
+ [Ver projeto](./analise_vendas_cafeteria.ipynb)
 
 ---
 
@@ -90,7 +90,7 @@ Aplicação interativa desenvolvida em Python para carregamento, exploração e 
 
 ---
 
-##Dashboards Power BI
+## Dashboards Power BI
 
 - **Dashboard de Vendas Aromas Cariocas:** [Ver dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZTY0M2RiZmMtNmZkMS00NmYyLWFjMTEtYWVmZWFiOTVkOGNlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
