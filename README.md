@@ -1,4 +1,4 @@
-[Banner](./banner_rhyan.png)
+<img src="./banner_rhyan.png" alt="Banner" width="100%">
 
 # Rhyan Carvalho
 
