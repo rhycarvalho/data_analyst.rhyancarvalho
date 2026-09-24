@@ -1,48 +1,4 @@
-![Banner](./banner_rhyan.png)
-
-# Rhyan Carvalho
-
-*Analista de Dados*
-
-Minha experiência na área de dados ainda é bem recente, comecei minha dedicação maior ao conteúdo a partir do primeiro semestre de 2025, devido a sempre precisar conciliar com uma faculdade de Direito e o trabalho.
-
-Desde então venho me capacitando através de cursos, lives e projetos práticos, principalmente pelo YouTube, aprofundando meu conhecimento técnico e minha visão analítica. Por vir de uma formação totalmente de humanas, sei que meus desafios são maiores mas isso não me afasta do meu objetivo de conquistar uma vaga em Analytics.
-
-**Background em:** SQL, Python, Power BI, Excel avançado (Power Query), (LGPD)
-
-**Links:**
-- [LinkedIn](https://www.linkedin.com/in/rhycarvalho/)
-
----
-
-## Projetos
-
-Os projetos estão organizados a demonstrar conhecimentos em **Python, SQL, análise exploratória, visualização de dados e Power BI**.
-
----
-
-### Python/Pandas
-
-** Análise Exploratória  E-commerce Brasileiro (Olist)**  
-Análise exploratória de dados de e-commerce, buscando identificar padrões de vendas, comportamento dos clientes, desempenho dos pedidos e oportunidades de negócio.
-
-**Tecnologias:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
-
- [Ver projeto](./Apresenta%C3%A7%C3%A3o-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
-
----
-
-** Roubo e Furto de Veículos no RJ (2023–2025)**  
-Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeiro, explorando distribuição dos casos, períodos e padrões identificados nos dados.
-
-**Tecnologias:** `Python` `Pandas` `Análise Exploratória` `Visualização de Dados`
-
- [Ver projeto](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
-
----
-
-** Análise de Vendas Cafeteria**  
-Projeto de análise de vendas com foco na identificação de p![Banner](./banner_rhyan.png)
+[Banner](./banner_rhyan.png)
 
 # Rhyan Carvalho
 
