@@ -88,6 +88,13 @@ Aplicação interativa desenvolvida em Python para carregamento, exploração e 
 
  [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
 
+Consulta de CEP com API
+Projeto em Python para consulta de CEP utilizando uma API, retornando informações como logradouro, bairro, cidade e estado.
+
+**Tecnologias:** `Python` `Requests` `API` `JSON`
+
+ [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/CEP_api.ipynb)
+
 ---
 
 ## Dashboards Power BI
