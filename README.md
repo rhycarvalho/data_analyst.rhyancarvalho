@@ -81,14 +81,14 @@ Repositório de estudos e consultas SQL criado para praticar conceitos fundament
 
 ### Visualização & Aplicações
 
-** Visualizador de Dados com Streamlit**  
+**Visualizador de Dados com Streamlit**  
 Aplicação interativa desenvolvida em Python para carregamento, exploração e visualização de conjuntos de dados.
 
 **Tecnologias:** `Python` `Streamlit` `Pandas` `Data Visualization`
 
  [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
 
-Consulta de CEP com API
+**Consulta de CEP com API**
 Projeto em Python para consulta de CEP utilizando uma API, retornando informações como logradouro, bairro, cidade e estado.
 
 **Tecnologias:** `Python` `Requests` `API` `JSON`
