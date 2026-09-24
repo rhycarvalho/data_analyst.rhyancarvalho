@@ -23,7 +23,7 @@ Os projetos estão organizados a demonstrar conhecimentos em **Python, SQL, aná
 
 ### Python/Pandas
 
-**Análise Exploratória  E-commerce Brasileiro (Olist)**  
+** Análise Exploratória  E-commerce Brasileiro (Olist)**  
 Análise exploratória de dados de e-commerce, buscando identificar padrões de vendas, comportamento dos clientes, desempenho dos pedidos e oportunidades de negócio.
 
 **Tecnologias:** `Python` `Pandas` `Matplotlib` `Jupyter Notebook`
@@ -32,7 +32,7 @@ Análise exploratória de dados de e-commerce, buscando identificar padrões de 
 
 ---
 
-**Roubo e Furto de Veículos no RJ (2023–2025)**  
+** Roubo e Furto de Veículos no RJ (2023–2025)**  
 Análise de dados de ocorrências de roubo e furto de veículos no Rio de Janeiro, explorando distribuição dos casos, períodos e padrões identificados nos dados.
 
 **Tecnologias:** `Python` `Pandas` `Análise Exploratória` `Visualização de Dados`
@@ -70,7 +70,7 @@ Conjunto de consultas no SQL desenvolvidas para explorar um banco de dados de st
 
 ---
 
-**SQL/queries em Banco de biblioteca**  
+** SQL/queries em Banco de biblioteca**  
 Repositório de estudos e consultas SQL criado para praticar conceitos fundamentais e intermediários de bancos de dados.
 
 **Tecnologias:** `SQL` `SELECT` `WHERE` `JOIN` `GROUP BY` `ORDER BY`
@@ -81,7 +81,7 @@ Repositório de estudos e consultas SQL criado para praticar conceitos fundament
 
 ### Visualização & Aplicações
 
-**Visualizador de Dados com Streamlit** 
+** Visualizador de Dados com Streamlit** 
 
 Aplicação interativa desenvolvida em Python para carregamento, exploração e visualização de conjuntos de dados.
 
@@ -89,7 +89,7 @@ Aplicação interativa desenvolvida em Python para carregamento, exploração e 
 
  [Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
 
-**Consulta de CEP com API**
+** Consulta de CEP com API**
 
 Projeto em Python para consulta de CEP utilizando uma API, retornando informações como logradouro, bairro, cidade e estado.
 
