@@ -82,7 +82,7 @@ Tratamento de uma base de vendas com sujeiras propositais (duplicatas, texto inc
 
 **Tecnologias:** Excel, Fórmulas (SOMASE, ARRUMAR, PRI.MAIÚSCULA), Tabelas, Gráficos
 
-[Ver planilha](https://bit.ly/4dZFoDJ) · [Baixar arquivo](./analise_vendas_livraria.xlsx)
+[Ver planilha](https://bit.ly/4dZFoDJ)
 
 ---
 
