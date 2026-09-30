@@ -80,7 +80,7 @@ Projeto de estudos com consultas SQL e fundamentos de bancos relacionais.
 
 Tratamento de uma base de vendas com sujeiras propositais (duplicatas, texto inconsistente, valores em formato errado) e construção de um dashboard com tabelas de apoio e gráficos.
 
-**Tecnologias:** Excel, Fórmulas (SOMASE, ARRUMAR, PRI.MAIÚSCULA), Tabelas, Gráficos
+**Tecnologias:** Excel, Fórmulas (SOMASE, PRI.MAIÚSCULA), Tabelas, Gráficos
 
 [Ver planilha](https://bit.ly/4dZFoDJ)
 
