@@ -132,6 +132,12 @@ Dashboard para acompanhamento de indicadores relacionados à manutenção.
 
 [Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUzMGM0NTktMTQyNy00MDk3LTk2YWYtNTZjNTljNjdjMWJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
+### Análise de Vendas
+
+Dashboard de análise de vendas com acompanhamento de metas, ranking de vendedores, comparação ano a ano e simulação de preço.
+
+[Ver projeto](https://github.com/rhycarvalho/analise-de-vendas-powerbi)
+
 ---
 
 ## Contato
