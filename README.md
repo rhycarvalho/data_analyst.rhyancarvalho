@@ -44,6 +44,14 @@ Exploração de dados de vendas para identificar produtos, períodos e comportam
 
 [Ver projeto](./analise_vendas_cafeteria.ipynb)
 
+### Biblioteca Escolar: Empréstimos e Atrasos
+
+Análise de empréstimos de uma biblioteca escolar, do CSV bruto ao Excel. Tratamento de datas, cálculo de dias de empréstimo e de atraso, e resumo por turma, livro e gênero.
+
+**Tecnologias:** Python, Pandas, Matplotlib, Jupyter Notebook, Excel
+
+[Ver projeto](https://github.com/rhycarvalho/biblioteca_escolar_pandas)
+
 ---
 
 ## SQL
