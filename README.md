@@ -1,3 +1,60 @@
+
+<img src="./banner_rhyan.png" alt="Banner" width="100%">
+
+# Rhyan Carvalho
+
+**Analista de Dados**
+
+Minha experiência na área de dados ainda é recente. Passei a me dedicar mais à área a partir do primeiro semestre de 2025, conciliando os estudos com a faculdade de Direito e o trabalho.
+
+Desde então, venho desenvolvendo meus conhecimentos por meio de cursos, conteúdos e projetos práticos, principalmente em Python, SQL e Power BI, buscando fortalecer tanto minha base técnica quanto minha capacidade analítica.
+
+Minha formação em Direito contribuiu para o desenvolvimento de habilidades como organização, atenção aos detalhes, análise de informações e raciocínio lógico, que hoje aplico na minha transição para a área de Analytics.
+
+**Background:** SQL, Python, Power BI, Excel Avançado, Power Query e LGPD.
+
+[LinkedIn](https://www.linkedin.com/in/rhycarvalho/)
+
+---
+
+# Projetos
+
+## Python e Pandas
+
+### E-commerce Brasileiro
+
+Análise exploratória do dataset Olist, com foco em vendas, clientes, pedidos e comportamento dos dados.
+
+**Tecnologias:** Python, Pandas, Matplotlib, Jupyter Notebook
+
+[Ver projeto](./Apresentação-Brazilian%20E-Commerce%20Public%20Dataset.ipynb)
+
+### Roubo e Furto de Veículos no RJ
+
+Análise de ocorrências entre 2023 e 2025, explorando a distribuição dos casos e padrões presentes nos dados.
+
+**Tecnologias:** Python, Pandas, Matplotlib
+
+[Ver projeto](./Roubo_Furto_Veiculos_RJ_2023_2025.ipynb)
+
+### Análise de Vendas de Cafeteria
+
+Exploração de dados de vendas para identificar produtos, períodos e comportamentos de consumo.
+
+**Tecnologias:** Python, Pandas, Jupyter Notebook
+
+[Ver projeto](./analise_vendas_cafeteria.ipynb)
+
+### Biblioteca Escolar: Empréstimos e Atrasos
+
+Análise de empréstimos de uma biblioteca escolar, do CSV bruto ao Excel. Tratamento de datas, cálculo de dias de empréstimo e de atraso, e resumo por turma, livro e gênero.
+
+**Tecnologias:** Python, Pandas, Matplotlib, Jupyter Notebook, Excel
+
+[Ver projeto](https://github.com/rhycarvalho/biblioteca_escolar_pandas)
+
+---
+
 ## SQL
 
 ### Delivery Analytics
@@ -10,9 +67,9 @@ Consultas SQL para análise de dados de delivery e exploração de informações
 
 ### Análise SQL: Escola Online
 
-Análise de dados de uma plataforma fictícia de cursos online, utilizando consultas SQL para investigar alunos, matrículas, cursos, pagamentos, avaliações e desempenho dos instrutores.
+Projeto de análise de dados utilizando PostgreSQL e um banco fictício de uma plataforma de cursos online. Exploração de informações sobre alunos, cursos, matrículas, pagamentos e avaliações, respondendo a perguntas de negócio por meio de consultas SQL.
 
-**Tecnologias:** PostgreSQL, SQL, JOIN, GROUP BY, CASE WHEN, Agregações e Consultas Analíticas
+**Tecnologias:** PostgreSQL, SQL, JOIN, GROUP BY, HAVING, Agregações e Consultas Analíticas
 
 [Ver projeto](./analise_sql_escola_online.ipynb)
 
@@ -31,3 +88,77 @@ Projeto de estudos com consultas SQL e fundamentos de bancos relacionais.
 **Conceitos:** SELECT, WHERE, JOIN, GROUP BY, ORDER BY
 
 [Ver projeto](./biblioteca%20consulta%20SQL.ipynb)
+
+---
+
+## Excel
+
+### Livraria Página Viva
+
+Tratamento de uma base de vendas com sujeiras propositais (duplicatas, texto inconsistente, valores em formato errado) e construção de um dashboard com tabelas de apoio e gráficos.
+
+**Tecnologias:** Excel, Fórmulas (SOMASE, PRI.MAIÚSCULA), Tabelas, Gráficos
+
+[Ver planilha](https://bit.ly/4dZFoDJ)
+
+---
+
+## Aplicações
+
+### Visualizador de Dados
+
+Aplicação desenvolvida em Python para carregamento, exploração e visualização de datasets.
+
+**Tecnologias:** Python, Streamlit, Pandas
+
+[Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/Visualizador%20de%20dados%20com%20Streamlit-python)
+
+### Consulta de CEP
+
+Aplicação em Python para consulta de CEP utilizando API e retorno de informações de endereço.
+
+**Tecnologias:** Python, Requests, API, JSON
+
+[Ver projeto](https://github.com/rhycarvalho/data_analyst.rhyancarvalho/blob/main/CEP_api.ipynb)
+
+---
+
+# Power BI
+
+### Aromas Cariocas
+
+Dashboard para análise de vendas e desempenho comercial.
+
+[Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTY0M2RiZmMtNmZkMS00NmYyLWFjMTEtYWVmZWFiOTVkOGNlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+### Futebol Europeu
+
+Dashboard de análise de desempenho ofensivo das cinco principais ligas europeias.
+
+[Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGFkYzBlYTEtZmRmNS00ODc2LWI3NzItN2EyNTMwMTEwOGRlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+### SaaS Analytics
+
+Dashboard de acompanhamento de indicadores de performance comercial.
+
+[Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWUzZDk2MjQtZDZjMy00MzM3LWE1NjktMGYzZjMyYzQxZTZhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+### Manutenção
+
+Dashboard para acompanhamento de indicadores relacionados à manutenção.
+
+[Ver dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUzMGM0NTktMTQyNy00MDk3LTk2YWYtNTZjNTljMWJmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+### Análise de Vendas
+
+Dashboard de análise de vendas com acompanhamento de metas, ranking de vendedores, comparação ano a ano e simulação de preço.
+
+[Ver projeto](https://github.com/rhycarvalho/analise-de-vendas-powerbi)
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/rhycarvalho/)
+
+[GitHub](https://github.com/rhycarvalho)
